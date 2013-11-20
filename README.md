@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -175,4 +174,3 @@ wdadiiiprojectsymfony
 =====================
 
 wdadiiiprojectsymfony
->>>>>>> a004313b3c20e8247d3bc04fa399b3154ffed8f0
